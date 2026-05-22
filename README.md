@@ -58,6 +58,7 @@ whiteboard/
     │   └── main.js
 ```
 🚀 Features
+
 ✅ User registration
 ✅ User login
 ✅ JWT authentication
